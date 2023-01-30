@@ -1,0 +1,4 @@
+﻿  tarea01.cpp
+D:\Proyectos\cplusplus\pruebaOMP\pruebaOMP\tarea01.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Proyectos\cplusplus\pruebaOMP\pruebaOMP\tarea01.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pruebaOMP.vcxproj -> D:\Proyectos\cplusplus\pruebaOMP\Debug\pruebaOMP.exe
